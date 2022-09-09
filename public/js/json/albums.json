@@ -1,0 +1,40 @@
+{
+    "albums": [
+      {
+        "year": "2009",
+        "title": "Before the fire",
+        "cover": "before_fire.jpg",
+        "url": "https://itunes.apple.com/us/album/before-the-fire/318524340"
+      },
+      {
+        "year": "2011",
+        "title": "Pressure & Time",
+        "cover": "pressure_and_time.jpg",
+        "url": "https://itunes.apple.com/us/album/pressure-time-redux/510516925"
+      },
+      {
+        "year": "2012",
+        "title": "Head Down",
+        "cover": "head_down.jpg",
+        "url": "https://itunes.apple.com/us/album/head-down/537749361"
+      },
+      {
+        "year": "2014",
+        "title": "Great Western Valkyrie",
+        "cover": "great_western.jpg",
+        "url": "https://itunes.apple.com/us/album/great-western-valkyrie-tour-edition/1030891864"
+      },
+      {
+        "year": "2016",
+        "title": "Hollow Bones",
+        "cover": "hollow_bones.jpg",
+        "url": "https://itunes.apple.com/us/album/hollow-bones/1090120857"
+      },
+      {
+        "year": "2019",
+        "title": "Feral Roots",
+        "cover": "feral_roots.jpg",
+        "url": "https://itunes.apple.com/us/album/feral-roots/1440340685"
+      }
+    ]
+}
